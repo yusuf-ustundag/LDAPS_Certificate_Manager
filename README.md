@@ -22,6 +22,7 @@ Professional PowerShell GUI tool for managing LDAPS certificates on Windows Doma
 
 ### Confirmation Dialog
 ![Confirmation Dialog](CertMan-2.jpg)
+
 *Confirmation dialog appears when clicking "Apply Fix" button, asking for user approval before proceeding with NTDS Registry cleanup and service restart*
 
 ### Operation Log
